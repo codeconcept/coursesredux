@@ -1,0 +1,23 @@
+{
+    "weekplan": [
+        {
+            "date": "2017-04-24",
+            "workday": true,
+            "blogDay": true,
+            "recordingDay": false,
+            "studies": ["Redux", "ES6"]
+        },
+        {
+            "date": "2017-04-25",
+            "workday": true,
+            "blogDay": false,
+            "recordingDay": true,
+            "studies": ["Redux", "React"]
+        }
+    ],
+    "cycleInMinutes":45,
+    "cyclePerDay":6,
+    "topics": {
+        "suggestions": ["Angular", "Ionic", "Node", "Redux", "React", "Vue.js", "ES6"]
+    }
+}
