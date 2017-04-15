@@ -18,6 +18,6 @@
     "cycleInMinutes":45,
     "cyclePerDay":6,
     "topics": {
-        "suggestions": ["Angular", "Ionic", "Node", "Redux", "React", "Vue.js", "ES6"]
+        "favorites": ["Angular", "Ionic", "Node", "Redux", "React", "Vue.js", "ES6"]
     }
 }
